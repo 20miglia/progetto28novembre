@@ -1,0 +1,36 @@
+a {
+    display: block;
+    margin-bottom: 10px;
+}
+
+h4 {
+    display: inline;
+    padding-right: 10px;
+}
+
+
+body {
+    background-color: cadetblue
+}
+
+#a1 {
+    display: block;
+    margin-top: 15px;
+}
+
+#b2 {
+    display: block;
+    margin-top: 15px;
+}
+
+#c3 {
+    margin-top: 15px;
+}
+
+.turn {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.vist {
+    visibility: hidden;
+}
